@@ -24,7 +24,7 @@ This project demonstrates an automated CI/CD pipeline using *GitHub Actions* to 
 ## Live Demo
 
 Check out the live website here:  
-[https://eshwar099.github.io/ci-cd-demo/](https://eshwar099.github.io/ci-cd-demo/)
+[https://eshwar099.github.io/ci-cd-demo/]
 
 
 
