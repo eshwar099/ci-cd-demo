@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: build-and-deploy
 
 on:
   push:
@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+    - name: Checkout code
+      uses: actions/checkout@v3
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
