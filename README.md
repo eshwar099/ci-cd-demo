@@ -40,7 +40,10 @@ The following screenshots are included in the screenshots/ folder:
 
 ## Video Explanation
 
-🎥 A screen recording video with voice-over explaining the project will be added here soon.
+
+🎥 **Demo Video**
+
+[▶️ Click here to watch the demo video](./video.mp4)
 
 
 
