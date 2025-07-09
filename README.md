@@ -41,7 +41,7 @@ The following screenshots are included in the screenshots/ folder:
 ## Video Explanation
 
 
-[▶️ Click here to watch the demo video](./video.mp4)
+[▶️ Click here to watch the demo video](./Video.mp4)
 
 
 
